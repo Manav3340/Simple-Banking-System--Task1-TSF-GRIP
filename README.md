@@ -13,6 +13,5 @@ Internship Category - Web Development and Design Internship Duration - 1 Month (
 Website Link-
 Gtihub
 https://manav3340.github.io/Simple-Banking-System--Task1-TSF-GRIP/
-
 AWS
 13.51.160.114
